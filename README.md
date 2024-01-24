@@ -1,2 +1,3 @@
 # This is my spotify cloning project 
- Using HTML % CSS 
+ Using HTML & CSS
+Author - Azeemula Shaik 
